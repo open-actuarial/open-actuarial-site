@@ -11,6 +11,7 @@ Open Actuarial
 
    introduction
    contributing
+   getting_started_python
 
 .. include::
    introduction.rst
