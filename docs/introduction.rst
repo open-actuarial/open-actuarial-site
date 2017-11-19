@@ -14,6 +14,9 @@ Getting Started
 ---------------
 Resources on how to get started with programming.
 
+- :ref:`Getting started with Python <getting_started_python>`
+- Getting started with R (TODO)
+
 Discussion and Contributing
 ---------------------------
 
