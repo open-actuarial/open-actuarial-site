@@ -22,7 +22,6 @@ Discussion and Contributing
 
 - :ref:`Help improve this site <contributing>`
 
-
 Areas for focus
 ---------------
 Below are some of the areas where the actuarial community can benefit from open tools:
