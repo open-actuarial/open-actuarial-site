@@ -12,6 +12,7 @@ This organisation aims to:
 
 Getting Started
 ---------------
+
 Resources on how to get started with programming.
 
 - :ref:`Getting started with Python <getting_started_python>`
@@ -24,10 +25,12 @@ Discussion and Contributing
 
 Areas for focus
 ---------------
+
 Below are some of the areas where the actuarial community can benefit from open tools:
 
 Basic core statistical functions and classes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 - core probabilistic functions ala Actuar including blended distributions e.g. mixed exponential, mixed pareto, etc
 - curve fitting
 - dependency modelling and parameterisation
@@ -35,6 +38,7 @@ Basic core statistical functions and classes
 
 Domain specific data dictionaries and datasets (real and dummy)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 - Standardised data dictionaries/glossaries
 - Tools for the transformation of data from formats typically used in administration systems to those suitable for analysis
 - Real datasets
@@ -42,10 +46,12 @@ Domain specific data dictionaries and datasets (real and dummy)
 
 Statistical analysis
 ^^^^^^^^^^^^^^^^^^^^
+
 - tools for generalised linear regression, mixed models, survival analysis, bayesian analysis, machine learning
 
 Reporting tools
 ^^^^^^^^^^^^^^^
+
 - Web based, pdf-able reports (to improve on Excel based reporting)
 - web apps
 - Notebooks
@@ -53,6 +59,7 @@ Reporting tools
 
 Development and production environments
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Applying DevOps principles to Actuarial work:
 
 - Collaboration and Version control (Git, TFS, Mecurical, SVN)
@@ -64,6 +71,7 @@ Applying DevOps principles to Actuarial work:
 
 Domain specific tools and models
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 - General Insurance/Property & Casualty
 - Life Insurance
 - Investments
