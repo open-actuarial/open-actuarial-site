@@ -11,7 +11,10 @@ Open Actuarial
 
    introduction
    contributing
+   core_functions
    getting_started_python
+   data
+   domain_tools
 
 .. include::
    introduction.rst

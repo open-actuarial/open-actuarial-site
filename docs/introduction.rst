@@ -28,16 +28,16 @@ Areas for focus
 
 Below are some of the areas where the actuarial community can benefit from open tools:
 
-Basic core statistical functions and classes
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+:ref:`Core statistical tools <core_functions>`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - core probabilistic functions ala Actuar including blended distributions e.g. mixed exponential, mixed pareto, etc
 - curve fitting
 - dependency modelling and parameterisation
 - data manipulation and charting tools
 
-Domain specific data dictionaries and datasets (real and dummy)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+:ref:`Domain specific data dictionaries and datasets (real and dummy) <Data>`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Standardised data dictionaries/glossaries
 - Tools for the transformation of data from formats typically used in administration systems to those suitable for analysis
@@ -69,8 +69,8 @@ Applying DevOps principles to Actuarial work:
 - Development, Testing and Production environments (virtualisation and containers)
 - 'Big Data' architectures
 
-Domain specific tools and models
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+:ref:`Domain specific tools and models <domain_tools>`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - General Insurance/Property & Casualty
 - Life Insurance
